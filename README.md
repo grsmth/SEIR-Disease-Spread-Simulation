@@ -40,9 +40,9 @@ How to Run
 
 Clone the repository and run:
 ```bash 
-git clone https://github.com/your-username/seir-model.git
-cd seir-model
-python seir_model.py
+git clone https://github.com/grsmth/SEIR-Disease-Spread-Simulation.git
+cd SEIR-Disease-Spread-Simulation
+python main.py
 ```
 Parameters
 
